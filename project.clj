@@ -1,4 +1,4 @@
-(defproject defclass/ring-swagger-ui "2.2.6-0"
+(defproject defclass/ring-swagger-ui "2.2.6-3"
   :description "Swagger UI for Ring apps"
   :url "https://github.com/defclass/ring-swagger-ui"
   :license {:name "Eclipse Public License"
