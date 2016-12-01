@@ -1,6 +1,6 @@
 (defproject defclass/ring-swagger-ui "2.2.6-0"
   :description "Swagger UI for Ring apps"
-  :url "https://github.com/metosin/ring-swagger-ui"
+  :url "https://github.com/defclass/ring-swagger-ui"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"
             :distribution :repo
